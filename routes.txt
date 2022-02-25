@@ -1,0 +1,4 @@
+1;janakpur;sd
+2;bardibas;sd
+3;sundhuli;gf
+4;kathmandu;jhsd
